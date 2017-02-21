@@ -93,7 +93,7 @@ In this section, you write a .NET console app that sends cloud-to-device message
 2. In Solution Explorer, right-click the solution, and then click **Manage NuGet Packages for Solution...**. 
    
     This action opens the **Manage NuGet Packages** window.
-3. Search for `Microsoft Azure Devices`, click **Install**, and accept the terms of use. 
+3. Search for `Microsoft.Azure.Devices`, click **Install**, and accept the terms of use. 
    
     This downloads, installs, and adds a reference to the [Azure IoT service SDK NuGet package].
 
